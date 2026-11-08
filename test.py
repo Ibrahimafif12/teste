@@ -1,0 +1,4 @@
+nom = "afif"          # str (chaîne de caractères)
+age = 21               # int (entier)
+taille = 1.80          # float (décimal)
+est_inscrit = True     # bool (booléen)
